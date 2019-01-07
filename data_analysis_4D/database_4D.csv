@@ -1,0 +1,20 @@
+dust name;D50 [µm];moisture content by mass [%];Pmax;KSt [bar·m/s]
+wood;10;1.9;6.1;70
+sandalwood;25;3.8;9;165
+wood;25;2.2;8.7;169
+wood;34;2.3;8.3;129
+wood;250;7.2;7.6;40
+wood;63;4.8;8;87
+wood (chips);500;7.1;0.7;3
+wood (chip dust);63;1.8;8.9;144
+Wood, from Filter;201;11;6.2;15
+Wood, from filter;422;7.4;5.8;13
+Wood, sawdust;63;2.7;8.9;149
+Wood, sawing, dust deposits;378;18.9;6;12
+Wood, sawing, dust deposits;83;8.6;7.4;63
+Wood, sawing, dust deposits;145;12.2;6.7;36
+white dust from white pellets;75;5;8.1;146
+bark dust from bark pellets;75;5;8.4;162
+forest residual (bark and wood);275;6;9.1;92
+furniture wood dust;64;7.9;8.1;151
+balsa wood dust;192;7;7.6;100
