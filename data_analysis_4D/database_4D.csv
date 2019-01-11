@@ -1,4 +1,6 @@
-dust name;D50 [µm];moisture content by mass [%];Pmax;KSt [bar·m/s]
+line 1;;;;
+line 2;;;;
+dust name;D50;moisture content by mass ;Pmax;KSt
 wood;10;1.9;6.1;70
 sandalwood;25;3.8;9;165
 wood;25;2.2;8.7;169
